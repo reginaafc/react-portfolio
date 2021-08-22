@@ -9,7 +9,7 @@ function Info(props) {
       <div class="row">
         <div class="col-3">
           <p>
-            <img className="teamOutlined" src={Me}/>
+            <img className="teamOutlined" alt="" src={Me}/>
           </p>
         </div>
         <div class="col-8">

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 import "../assets/css/Projects.css";
 
 function Projects() {
@@ -8,7 +8,7 @@ function Projects() {
         <img
           className="card-img-top"
           src="https://www.thespruce.com/thmb/YPjbjXExku3d_pmVrVrlgnJEwPY=/4543x2555/smart/filters:no_upscale()/how-to-sell-used-books-for-the-most-cash-1388970-01-7815a93d4c95431999e1b5192ece1699.jpg"
-          alt="Card image cap"
+          alt=""
         />
         <div className="card-body">
           <h5 className="card-title">Amusectionary</h5>
@@ -34,7 +34,7 @@ function Projects() {
         <img
           className="card-img-top"
           src="https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2020-06/ASpot_Weather.jpg?h=d1cb525d&itok=lvYWh_W8"
-          alt="Card image cap"
+          alt=""
         />
         <div className="card-body">
           <h5 className="card-title">Weather Dashboard</h5>
@@ -56,7 +56,7 @@ function Projects() {
         <img
           className="card-img-top"
           src="https://humanebroward.com/wp-content/uploads/2017/04/lost-pet-1.jpg"
-          alt="Card image cap"
+          alt="C"
         />
         <div className="card-body">
           <h5 className="card-title">Pawbook</h5>
